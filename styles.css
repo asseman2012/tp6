@@ -1,0 +1,11 @@
+body{
+	background-image: url("img/fond.jpg"); 
+	color: white;
+}
+header{
+
+	border-bottom: 2px solid black;
+}
+.trait{
+	border-bottom: 2px solid black;
+}

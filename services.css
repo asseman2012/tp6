@@ -1,0 +1,38 @@
+table{
+	border-collapse: collapse;/*. Pour coller les bordures entre elles, on utilise la propriété CSS */
+    display: flex;
+    display: box;
+    margin: 5px;
+
+}
+td
+{
+	border: 2px solid black;
+    padding: 3px;
+    margin: 10px;
+    background-color: #fe3255;
+}
+footer{
+	margin: 10px;
+	border-top: 2px solid black;
+	color: white;
+}
+body{
+	background-image:url("img/fond.jpg"); 
+	background-repeat:repeat; 
+	color: white;
+}
+h2{
+
+
+	font-size: 25px;
+}
+.de{
+
+	flex-direction: center;
+}
+.tirer{
+
+	border-style: dotted;
+	margin-bottom:  5px;
+}

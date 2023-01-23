@@ -1,0 +1,20 @@
+header{
+	border-bottom: 2px solid black;
+}
+.trait{
+	border-bottom: 2px solid black;
+}
+body{
+	background-image:url("img/fond.jpg"); 
+	background-repeat:repeat; 
+	color: white;
+}
+p{
+	font-size: 1em;
+}
+.taille{
+	font-size: 1.2em;
+}
+input{
+	margin-left: 10px;
+}
